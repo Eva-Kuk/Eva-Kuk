@@ -85,7 +85,7 @@ UX & UI Design
 
 ## Group Projects
 Hackaton at Code Institute
-1. Women in Tech Hackaton - Command Girl:
+1. Women in Tech Hackaton - **Command Girl**:
 [Repo](https://github.com/Eva-Kuk/hackathon-command-girl) | [Website](https://thanh-cao.github.io/hackathon-command-girl/)
 
 ## Some of the projects created while learning at Code Institute tutorials:
