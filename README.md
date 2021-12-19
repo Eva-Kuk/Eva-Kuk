@@ -73,22 +73,24 @@ UX & UI Design
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eva-kuk&layout=compact&theme=tokyonight)](https://github.com/eva-kuk)
 
 
-My Main Projects 
-1. Milestone Project 1 - The Hikers MS1: 
-[Repo](https://github.com/Eva-Kuk/The-Hikers-MS1) | [Website](https://eva-kuk.github.io/The-Hikers-MS1/)
-2. Milestone Project 2 - Wroclaw The City Of Dwarfs MS2:
-[Repo](https://github.com/Eva-Kuk/Wroclaw-The-City-Of-Dwarfs-MS2) | [Website](https://eva-kuk.github.io/Wroclaw-The-City-Of-Dwarfs-MS2/)
-3. Milestone Project 3 - Smoothie Lovers: [Repo](https://github.com/Eva-Kuk/smoothie-lovers) | [Website](https://smoothie-lovers.herokuapp.com/)
-4. Milestone Project 4 - Unique Wings: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.herokuapp.com/)
+---
 
-Group Projects
+## My Main Projects 
+1. Milestone Project 1 - **The Hikers MS1**: 
+[Repo](https://github.com/Eva-Kuk/The-Hikers-MS1) | [Website](https://eva-kuk.github.io/The-Hikers-MS1/)
+2. Milestone Project 2 - **Wroclaw The City Of Dwarfs MS2**:
+[Repo](https://github.com/Eva-Kuk/Wroclaw-The-City-Of-Dwarfs-MS2) | [Website](https://eva-kuk.github.io/Wroclaw-The-City-Of-Dwarfs-MS2/)
+3. Milestone Project 3 - **Smoothie Lovers**: [Repo](https://github.com/Eva-Kuk/smoothie-lovers) | [Website](https://smoothie-lovers.herokuapp.com/)
+4. Milestone Project 4 - **Unique Wings**: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.herokuapp.com/)
+
+## Group Projects
 Hackaton at Code Institute
 1. Women in Tech Hackaton - Command Girl:
 [Repo](https://github.com/Eva-Kuk/hackathon-command-girl) | [Website](https://thanh-cao.github.io/hackathon-command-girl/)
 
-Some of the projects created while learning at Code Institute tutorials:
+## Some of the projects created while learning at Code Institute tutorials:
 
-- Love Running [Repo](https://github.com/Eva-Kuk/love-running) | [Website](https://eva-kuk.github.io/love-running/)
-- Whiskey Drop [Repo](https://github.com/Eva-Kuk/whiskey-drop) | [Website](https://eva-kuk.github.io/whiskey-drop/)
-- UCD-resume [Repo](https://github.com/Eva-Kuk/UCD-resume) | [Website](https://eva-kuk.github.io/UCD-resume/)
-- Boutique ADO [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://evakuk-boutique-ado.herokuapp.com/)
+- **Love Running** [Repo](https://github.com/Eva-Kuk/love-running) | [Website](https://eva-kuk.github.io/love-running/)
+- **Whiskey Drop** [Repo](https://github.com/Eva-Kuk/whiskey-drop) | [Website](https://eva-kuk.github.io/whiskey-drop/)
+- **UCD-resume** [Repo](https://github.com/Eva-Kuk/UCD-resume) | [Website](https://eva-kuk.github.io/UCD-resume/)
+- **Boutique ADO** [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://evakuk-boutique-ado.herokuapp.com/)
