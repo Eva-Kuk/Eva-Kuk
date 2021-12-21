@@ -8,17 +8,17 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 - 🌱 I'm currently learning React
 - 📚 I have interest in UX/UI Design
 - 🥅 2022 Goals: find my first job as a Front End junior web developer
-- ⚡ I love motorcycles 🏍️🔥, hiking ⛰️, learning play the guitar recently 🎸
+- ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️, learning play the guitar recently 🎸
 
 [View my Portfolio]() comming soon...
 
 ---
-## Connect with me on:
+## Ways to connect with me 📟:
 <code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=whith</object>">  </a> </code>
 
 ---
 
-# I have been worked with:
+# ⚙️ Technologies I have been worked with:
 ## Programming Languages & Styles
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&color=E34F26) 
