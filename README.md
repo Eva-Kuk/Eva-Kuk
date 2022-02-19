@@ -3,7 +3,7 @@
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 I am a Software Developer, just received my Diploma from the Code Institute as a  Full Stack Web Developer 
 - 🌱 I'm currently learning React
-- 👯 I'm currently looking to collaborate 
+- 👯 I'm currently looking to collaborate with other content creators
 - 📚 I have interest in Front end and UX/UI Design
 - 🥅 2022 Goals: find my first job as a Front End Junior Web Developer
 - ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️
@@ -60,6 +60,7 @@ UX & UI Design
 
 <code><img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30</object>">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30</object>">   </code>
+<code><img height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&logoWidth=30</object>">   </code>
 
 
