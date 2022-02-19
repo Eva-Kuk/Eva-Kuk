@@ -1,14 +1,12 @@
 
 
-![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1639785824/unique-wings/git-avatar3_gvbhb5.png)
-
-<p align="center">Hi there, I'm Ewa 👋 😀 👩‍💻</p>
-
+![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 I am a Software Developer, just received my Diploma from the Code Institute as a  Full Stack Web Developer 
 - 🌱 I'm currently learning React
-- 📚 I have interest in UX/UI Design
-- 🥅 2022 Goals: find my first job as a Front End junior web developer
-- ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️, learning play the guitar recently 🎸
+- 👯 I'm currently looking to collaborate 
+- 📚 I have interest in Front end and UX/UI Design
+- 🥅 2022 Goals: find my first job as a Front End Junior Web Developer
+- ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️
 
 [View my Portfolio]() comming soon...
 
@@ -36,7 +34,6 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 <code><img height="30" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Google Maps-4285F4?logo=google-maps&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&logoWidth=10&style=plastic">   </code>
-<code><img height="30" src="https://img.shields.io/badge/-Font Awesome-339AF0?logo=font-awesome&logoColor=white&logoWidth=10&style=plastic">   </code>
 
 ## Databases
 
@@ -84,9 +81,13 @@ UX & UI Design
 4. Milestone Project 4 - **Unique Wings**: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.herokuapp.com/)
 
 ## Group Projects
-Hackaton at Code Institute
-1. Women in Tech Hackaton - **Command Girl**:
-[Repo](https://github.com/Eva-Kuk/hackathon-command-girl) | [Website](https://thanh-cao.github.io/hackathon-command-girl/)
+1. Hackaton at [Code Institute](https://codeinstitute.net/ie/)
+    ### Women in Tech Hackaton - **Command Girl**:
+    [Repo](https://github.com/Eva-Kuk/hackathon-command-girl) | [Website](https://thanh-cao.github.io/hackathon-command-girl/)
+
+2. Hackaton at [Code Institute](https://codeinstitute.net/ie/) hosted in collaboration with digital recruitment firm Trust in soda](https://www.trustinsoda.com/) and their networking event SODA Social
+    ### Accelerating the future of workforce well-being and mindfulness - **Mindful Timer**:
+    [Repo](https://github.com/Eva-Kuk/January-2022-Hackathon) | [Website](https://mindtimer.herokuapp.com/)
 
 ## Some of the projects created while learning at Code Institute tutorials:
 
