@@ -12,7 +12,7 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 
 ---
 ## Ways to connect with me 📟:
-<code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=whith</object>">  </a> </code>
+<code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=whith"> </a> </code>
 
 ---
 
