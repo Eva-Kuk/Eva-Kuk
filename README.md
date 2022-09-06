@@ -7,7 +7,7 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 - 📚 I have interest in Front end and UX/UI Design
 - ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️
 
-[View my Portfolio]() comming soon...
+[View my Portfolio]() coming soon...
 
 ---
 ## Ways to connect with me 📟:
