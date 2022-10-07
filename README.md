@@ -7,7 +7,7 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 - 📚 I have interest in Front end and UX/UI Design
 - ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️
 
-[View my Portfolio]() coming soon...
+[View my Portfolio](https://my-portfolio-eva-kukla.herokuapp.com/)
 
 ---
 ## Ways to connect with me 📟:
