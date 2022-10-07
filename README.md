@@ -22,6 +22,7 @@ I am a Software Developer, just received my Diploma from the Code Institute as a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&color=F7DF1E) 
 ![](https://img.shields.io/badge/Style-css3-informational?style=plastic&logo=css3&color=1572B6) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=3776AB)
+![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&color=61DAFB) 
 
 
 ## Frameworks, Libraries & APIs
