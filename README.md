@@ -2,7 +2,7 @@
 
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 I am a Software Developer, just received my Diploma from the Code Institute as a  Full Stack Web Developer 
-- 🌱 I'm currently learning more Python, more Django, more Flask everything ...
+- 🌱 I'm currently learning React more JavaScript, Python, Django everything ...
 - 👯 I’m looking to collaborate with other content creators on small projects
 - 📚 I have interest in Front end and UX/UI Design
 - ⚡Fun fact: I love motorcycles 🏍️🔥, yoga🙏, hiking ⛰️
