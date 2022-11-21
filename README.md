@@ -78,8 +78,8 @@ UX & UI Design
 [Repo](https://github.com/Eva-Kuk/The-Hikers-MS1) | [Website](https://eva-kuk.github.io/The-Hikers-MS1/)
 2. Milestone Project 2 - **Wroclaw The City Of Dwarfs MS2**:
 [Repo](https://github.com/Eva-Kuk/Wroclaw-The-City-Of-Dwarfs-MS2) | [Website](https://eva-kuk.github.io/Wroclaw-The-City-Of-Dwarfs-MS2/)
-3. Milestone Project 3 - **Smoothie Lovers**: [Repo](https://github.com/Eva-Kuk/smoothie-lovers) | [Website](https://smoothie-lovers.herokuapp.com/)
-4. Milestone Project 4 - **Unique Wings**: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.herokuapp.com/)
+3. Milestone Project 3 - **Smoothie Lovers**: [Repo](https://github.com/Eva-Kuk/smoothie-lovers) | [Website](https://smoothie-lovers.onrender.com)
+4. Milestone Project 4 - **Unique Wings**: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.onrender.com)
 
 ## Group Projects
 1. Hackaton at [Code Institute](https://codeinstitute.net/ie/)
