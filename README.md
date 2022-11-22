@@ -95,4 +95,4 @@ UX & UI Design
 - **Love Running** [Repo](https://github.com/Eva-Kuk/love-running) | [Website](https://eva-kuk.github.io/love-running/)
 - **Whiskey Drop** [Repo](https://github.com/Eva-Kuk/whiskey-drop) | [Website](https://eva-kuk.github.io/whiskey-drop/)
 - **UCD-resume** [Repo](https://github.com/Eva-Kuk/UCD-resume) | [Website](https://eva-kuk.github.io/UCD-resume/)
-- **Boutique ADO** [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://evakuk-boutique-ado.herokuapp.com/)
+- **Boutique ADO** [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://boutique-ado-rwoi.onrender.com)
