@@ -96,3 +96,6 @@ UX & UI Design
 - **Whiskey Drop** [Repo](https://github.com/Eva-Kuk/whiskey-drop) | [Website](https://eva-kuk.github.io/whiskey-drop/)
 - **UCD-resume** [Repo](https://github.com/Eva-Kuk/UCD-resume) | [Website](https://eva-kuk.github.io/UCD-resume/)
 - **Boutique ADO** [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://boutique-ado-rwoi.onrender.com)
+
+## Recent Projects:
+- **Love For Food** [Repo](https://github.com/Eva-Kuk/love-for-food) | [Website](https://loveforfood.ml/)
