@@ -99,4 +99,4 @@ UX & UI Design
 
 ## Recent Projects:
 - **Love For Food** [Repo](https://github.com/Eva-Kuk/love-for-food) | [Website](https://loveforfood.ml/)
-- **Energy Fitness Club**[Repo](https://github.com/Eva-Kuk/energy-fitness-club) | [Website](https://kuklaewa.com/)
+- **Energy Fitness Club**[Repo](https://github.com/Eva-Kuk/energy-fitness-club) | [Website](https://energy-fitness-club.onrender.com)
