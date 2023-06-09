@@ -1,7 +1,7 @@
 
 
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
-I am a Software Developer, just received my Diploma from the Code Institute as a  Full Stack Web Developer 
+I am a Front End Web Developer, graduated from Code Institute as a  Full Stack Web Developer 
 - 🌱 I'm currently learning MERN, PHP more JavaScript, more REACT more everything ...
 - 👯  I’m looking to collaborate on open source projects.
 - 📚 I have interest in Front end and UX/UI Design
