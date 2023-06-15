@@ -3,9 +3,9 @@
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 
 I am a Front End Web Developer, graduated from Code Institute as a  Full Stack Web Developer 
-- 🌱 I'm currently learning MERN, PHP more JavaScript, more REACT more everything ...
-- 👯  I’m looking to collaborate on open source projects.
-- 📚 I have interest in Front end and UX/UI Design
+- 🌱 I'm currently learning more JavaScript, REACT, UI, UX more everything ...
+- 👯  I’m looking to collaborate on open-source projects.
+- 📚 I have an interest in Front end and UX/UI Design
 
 [View my Portfolio](https://evakukla.com/)
 
@@ -15,7 +15,7 @@ I am a Front End Web Developer, graduated from Code Institute as a  Full Stack W
 
 ---
 
-# ⚙️ Technologies I have been worked with:
+# ⚙️ Technologies I have worked with:
 ## Programming Languages & Styles
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&color=E34F26) 
@@ -83,7 +83,7 @@ UX & UI Design
 
 ## Group Projects
 1. Hackaton at [Code Institute](https://codeinstitute.net/ie/)
-    ### Women in Tech Hackaton - **Command Girl**:
+    ### Women in Tech Hackathon - **Command Girl**:
     [Repo](https://github.com/Eva-Kuk/hackathon-command-girl) | [Website](https://thanh-cao.github.io/hackathon-command-girl/)
 
 2. Hackaton at [Code Institute](https://codeinstitute.net/ie/) hosted in collaboration with digital recruitment firm Trust in soda](https://www.trustinsoda.com/) and their networking event SODA Social
