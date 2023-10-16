@@ -15,8 +15,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 
 ---
 ## Socials 📟:
-<code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=whith"> </a> </code>
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"> </a> </code>
 ---
 
 ## ⚙️ Languages & Tools
