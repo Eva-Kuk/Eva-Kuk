@@ -22,7 +22,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 
 ## ⚙️ Languages & Tools
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&color=E34F26) 
+![]<img height="30" src="https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&color=E34F26"> 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&color=F7DF1E) 
 ![](https://img.shields.io/badge/Style-css3-informational?style=plastic&logo=css3&color=1572B6) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=3776AB)
