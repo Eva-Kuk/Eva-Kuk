@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=0F574F&center=true&vCenter=true&random=false&width=1000&height=149&lines=Hi!+I'm+Eva%F0%9F%91%8B+;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
-![image](https://evakukla.com/(https://res.cloudinary.com/dfskzu7ui/image/upload/v1697457494/Black_Modern_Graphic_Designer_LinkedIn_Banner_1_edvsem.png) )
+![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1697457494/Black_Modern_Graphic_Designer_LinkedIn_Banner_1_edvsem.png)
 
-I am a Front End Web Developer, who graduated from Code Institute as a  Full Stack Web Developer 
+I am a passionate Front End Web Developer, who loves to discover new technologies, never stop learning 
 - 🌱 I'm currently learning more JavaScript, REACT, UI, UX more everything ...
 - 👯  I’m looking to collaborate on open-source projects.
-- 📚 I have an interest in Front end and UX/UI Design
 
 [View my Portfolio](https://evakukla.com/)
 
@@ -22,10 +21,8 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 
 ## GitHub Stats
 
-
 [![Evka K’s github stats](https://github-readme-stats.vercel.app/api?username=eva-kuk&theme=tokyonight)](https://github.com/eva-kuk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eva-kuk&layout=compact&theme=tokyonight)](https://github.com/eva-kuk)
-
 
 ---
 
