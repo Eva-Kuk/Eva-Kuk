@@ -42,7 +42,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 ![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30)
 ![](https://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30)
 ![](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
-![](https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&logoWidth=30)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&logoWidth=30)
 
 
 ## GitHub Stats
