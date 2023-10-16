@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=0F574F&center=true&vCenter=true&random=false&width=1000&height=149&lines=Hi!+I'm+Eva%F0%9F%91%8B+;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 ---
-![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1697456404/Black_Modern_Graphic_Designer_LinkedIn_Banner_tpdttj.jpg)
+![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1697457290/Black_Modern_Graphic_Designer_LinkedIn_Banner_yvfe6x.jpg)
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 
 I am a Front End Web Developer, who graduated from Code Institute as a  Full Stack Web Developer 
