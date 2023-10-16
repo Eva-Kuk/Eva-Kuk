@@ -27,10 +27,6 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 ![](https://img.shields.io/badge/Style-css3-informational?style=plastic&logo=css3&color=1572B6) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&color=61DAFB) 
-
-
-## Frameworks, Libraries & APIs
-
 <code><img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">   </code>
@@ -38,30 +34,14 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 <code><img height="30" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Google Maps-4285F4?logo=google-maps&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&logoWidth=10&style=plastic">   </code>
-
-## Databases
-
 <code><img height="30" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&logoWidth=30">   </code>
-
-## Version Control & Coding
-
 <code><img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Gitpod-FFAE33?logo=gitpod&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white&logoWidth=30">   </code>
-
-## Hosting platforms
-
-<code><img height="30" src="https://img.shields.io/badge/-GitHub Pages-222222?logo=githubpages&logoColor=white&logoWidth=30">   </code>
-<code><img height="30" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&logoWidth=30">   </code>
-<code><img height="30" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=30">   </code>
-
-
-UX & UI Design
-
 <code><img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30">   </code>
 <code><img height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6">   </code>
