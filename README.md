@@ -22,11 +22,11 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 
 ## ⚙️ Languages & Tools
 
-<img height="30" src="https://img.shields.io/badge/Code-Html-informational?style=for-the-badge&logo=html5&color=E34F26"> 
-<img height="30" src="https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&color=F7DF1E">
-<img height="30" src="https://img.shields.io/badge/Style-css3-informational?style=plastic&logo=css3&color=1572B6"> 
-<img height="30" src="https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=3776AB">
-<img height="30" src="https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&color=61DAFB)"> 
+<img height="30" src="https://img.shields.io/badge/-Html-informational?style=plastic&logo=html5&color=E34F26"> 
+<img height="30" src="https://img.shields.io/badge/-JavaScript-informational?style=plastic&logo=javascript&color=F7DF1E">
+<img height="30" src="https://img.shields.io/badge/-css3-informational?style=plastic&logo=css3&color=1572B6"> 
+<img height="30" src="https://img.shields.io/badge/-Python-informational?style=plastic&logo=python&color=3776AB">
+<img height="30" src="https://img.shields.io/badge/-React-informational?style=plastic&logo=react&color=61DAFB)"> 
 <img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic">
 <img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&logoWidth=10&style=plastic">
 <img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">
