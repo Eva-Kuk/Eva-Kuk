@@ -27,7 +27,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 ![](https://img.shields.io/badge/Style-css3-informational?style=plastic&logo=css3&color=1572B6) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-React-informational?style=plastic&logo=react&color=61DAFB) 
-<code><img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic">   </code>
+![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic" )
 <code><img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">   </code>
 <code><img height="30" src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&logoWidth=10&style=plastic">   </code>
