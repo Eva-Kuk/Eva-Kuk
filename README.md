@@ -6,7 +6,7 @@ I am a passionate Front End Web Developer, who loves to discover new technologie
 - 🌱 I'm currently learning more JavaScript, REACT, UI, UX more everything ...
 - 👯  I’m looking to collaborate on open-source projects.
 
-[View my Portfolio](https://evakukla.com/)
+[https://res.cloudinary.com/dfskzu7ui/image/upload/v1697457494/Black_Modern_Graphic_Designer_LinkedIn_Banner_1_edvsem.png](https://evakukla.com/)
 
 ## 📟 Socials :
 <a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"> </a>
