@@ -6,7 +6,7 @@
 
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 
-I am a Front End Web Developer, graduated from Code Institute as a  Full Stack Web Developer 
+I am a Front End Web Developer, who graduated from Code Institute as a  Full Stack Web Developer 
 - 🌱 I'm currently learning more JavaScript, REACT, UI, UX more everything ...
 - 👯  I’m looking to collaborate on open-source projects.
 - 📚 I have an interest in Front end and UX/UI Design
