@@ -10,19 +10,17 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 
 [View my Portfolio](https://evakukla.com/)
 
----
 ## 📟 Socials :
 <a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
----
 
 ## 🚀 Languages & Tools
 
-<img height="30" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"> <img height="30" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black"> <img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&logoWidth=10&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">
+<img height="30" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"> <img height="30" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black"> <img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">
 <img height="30" src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&logoWidth=10&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&logoWidth=10&style=plastic"> <img height="30" src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&logoWidth=10&style=plastic">  <img height="30" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-<img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30"> <img height="30" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoWidth=30"> <img height="30" src="https://img.shields.io/badge/-Gitpod-FFAE33?logo=gitpod&logoColor=white&logoWidth=30">
-<img height="30" src="https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&logoWidth=30"> <img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30"> <img height="30" src="ttps://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30">
-<img height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#F61F6"> <img height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&logoWidth=30">
+<img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&logoWidth=30"> <img height="30" src="https://img.shields.io/badge/-Gitpod-FFAE33?logo=gitpod&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30"> <img height="30" src="ttps://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30">
+<img height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#F61F6"> <img height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white&logoWidth=30">
 
 ## GitHub Stats
 
