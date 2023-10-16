@@ -1,8 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=0F574F&center=true&vCenter=true&random=false&width=1000&height=160&lines=Hi!+I'm+Eva%F0%9F%91%8B+;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=0F574F&center=true&vCenter=true&random=false&width=1000&height=149&lines=Hi!+I'm+Eva%F0%9F%91%8B+;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 ---
-
-
 
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1645274778/unique-wings/git-avatar2_wfh2d5.jpg)
 
@@ -17,7 +14,6 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 ## Socials 📟:
 <a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-	
 ---
 
 ## ⚙️ Languages & Tools
