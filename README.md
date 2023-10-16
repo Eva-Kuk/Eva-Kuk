@@ -9,7 +9,7 @@ I am a passionate Front End Web Developer, who loves to discover new technologie
 [View my Portfolio](https://evakukla.com/)
 
 ## 📟 Socials :
-<a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"> </a>
 
 
 ## 🚀 Languages & Tools
