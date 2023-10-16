@@ -26,14 +26,6 @@ I am a passionate Front End Web Developer, who loves to discover new technologie
 
 ---
 
-## My Main Projects 
-1. Milestone Project 1 - **The Hikers MS1**: 
-[Repo](https://github.com/Eva-Kuk/The-Hikers-MS1) | [Website](https://eva-kuk.github.io/The-Hikers-MS1/)
-2. Milestone Project 2 - **Wroclaw The City Of Dwarfs MS2**:
-[Repo](https://github.com/Eva-Kuk/Wroclaw-The-City-Of-Dwarfs-MS2) | [Website](https://eva-kuk.github.io/Wroclaw-The-City-Of-Dwarfs-MS2/)
-3. Milestone Project 3 - **Smoothie Lovers**: [Repo](https://github.com/Eva-Kuk/smoothie-lovers) | [Website](https://smoothie-lovers.onrender.com)
-4. Milestone Project 4 - **Unique Wings**: [Repo](https://github.com/Eva-Kuk/unique-wings) | [Website](https://unique-wings.onrender.com)
-
 ## Group Projects
 1. Hackaton at [Code Institute](https://codeinstitute.net/ie/)
     ### Women in Tech Hackathon - **Command Girl**:
