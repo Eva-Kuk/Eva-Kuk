@@ -14,13 +14,12 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 [View my Portfolio](https://evakukla.com/)
 
 ---
-## Ways to connect with me 📟:
+## Socials 📟:
 <code><a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=whith"> </a> </code>
-
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ---
 
-# ⚙️ Technologies I have worked with:
-## Programming Languages & Styles
+## ⚙️ Languages & Tools
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=html5&color=E34F26) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&color=F7DF1E) 
