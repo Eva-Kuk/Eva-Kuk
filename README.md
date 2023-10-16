@@ -22,7 +22,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 <img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 <img height="30" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white"> 
 <img height="30" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white">
-<img height="30" src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white"> 
+<img height="30" src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black"> 
 <img height="30" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=10&style=plastic">
 <img height="30" src="https://img.shields.io/badge/-Materialize-ee6e73?logoColor=white&logoWidth=10&style=plastic">
 <img height="30" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=10&style=plastic">
@@ -36,7 +36,7 @@ I am a Front End Web Developer, who graduated from Code Institute as a  Full Sta
 <img height="30" src="https://img.shields.io/badge/-Gitpod-FFAE33?logo=gitpod&logoColor=white&logoWidth=30">
 <img height="30" src="https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&logoWidth=30">
 <img height="30" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30">
-<img height="30" src="ttps://img.shields.io/badge/-Balsamiq-ffffff?logoColor=white&logoWidth=30">
+<img height="30" src="ttps://img.shields.io/badge/-Balsamiq-ffffff?logoColor=black&logoWidth=30">
 <img height="30" src="https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#F61F6">
 <img height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&logoWidth=30)">
 
