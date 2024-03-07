@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0F574F&center=true&vCenter=true&random=false&width=1000&height=80&lines=Hi!+I'm+Eva%F0%9F%91%8B+;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
-![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1697457494/Black_Modern_Graphic_Designer_LinkedIn_Banner_1_edvsem.png)
+![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1709837388/IMG-20230921-WA0043_i2jz0n.jpg)
 [View my Portfolio 🖥️](https://evakukla.com/)
 
 I am a passionate Front End Web Developer, who loves to discover new technologies, and never stop learning ... 
