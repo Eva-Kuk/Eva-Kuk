@@ -36,14 +36,6 @@ I am a passionate Front End Web Developer, who loves to discover new technologie
     ### Accelerating the future of workforce well-being and mindfulness - **Mindful Timer**:
     [Repo](https://github.com/Eva-Kuk/January-2022-Hackathon) | [Website](https://mindtimer.herokuapp.com/)
 
-## Some of the projects created while learning at Code Institute tutorials:
-
-- **Love Running** [Repo](https://github.com/Eva-Kuk/love-running) | [Website](https://eva-kuk.github.io/love-running/)
-- **Whiskey Drop** [Repo](https://github.com/Eva-Kuk/whiskey-drop) | [Website](https://eva-kuk.github.io/whiskey-drop/)
-- **UCD-resume** [Repo](https://github.com/Eva-Kuk/UCD-resume) | [Website](https://eva-kuk.github.io/UCD-resume/)
-- **Boutique ADO** [Repo](https://github.com/Eva-Kuk/boutique_ado_v1) | [Website](https://boutique-ado-rwoi.onrender.com)
-
 ## Recent Projects:
-- **Love For Food** [Repo](https://github.com/Eva-Kuk/love-for-food) | [Website](https://loveforfood.ml/)
 - **Energy Fitness Club** [Repo](https://github.com/Eva-Kuk/energy-fitness-club) | [Website](https://energy-fitness-club.onrender.com)
 - **Mountain Peaks** [Repo](https://github.com/Eva-Kuk/mountains-react-app) | [Website](https://mountain-peaks.onrender.com/)
