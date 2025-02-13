@@ -3,12 +3,6 @@
 ![image](https://res.cloudinary.com/dfskzu7ui/image/upload/v1709837388/IMG-20230921-WA0043_i2jz0n.jpg)
 [View my Portfolio 🖥️](https://evakukla.com/)
 
-I am a passionate Front End Web Developer, who loves to discover new technologies, and never stop learning ... 
-- 🌱 I'm currently learning more JavaScript, REACT, UI, UX more everything ...
-- 👯  I’m looking to collaborate on open-source projects.
-
-
-
 ## 📟 Socials :
 <a href="https://www.linkedin.com/in/ewa-kukla-8b8504147/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"> </a>
 
@@ -36,6 +30,6 @@ I am a passionate Front End Web Developer, who loves to discover new technologie
     ### Accelerating the future of workforce well-being and mindfulness - **Mindful Timer**:
     [Repo](https://github.com/Eva-Kuk/January-2022-Hackathon) | [Website](https://mindtimer.herokuapp.com/)
 
-## Recent Projects:
+## Other Projects:
 - **Energy Fitness Club** [Repo](https://github.com/Eva-Kuk/energy-fitness-club) | [Website](https://energy-fitness-club.onrender.com)
 - **Mountain Peaks** [Repo](https://github.com/Eva-Kuk/mountains-react-app) | [Website](https://mountain-peaks.onrender.com/)
